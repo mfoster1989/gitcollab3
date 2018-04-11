@@ -5,8 +5,9 @@
 1b. Malcolm: Made a new folder, moved about.html into it.<br>
 2a. Brandon: Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.<br>
 2b. Malcolm - Made new css stylesheet<br>
-3a. Brandon: You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.
-3b. Malcolm: You should create an array of objects. Each object should have a name and age.
+3a. Brandon: You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.<br>
+3b. Malcolm: You should create an array of objects. Each object should have a name and age.<br>
+4a. Brandon: You should edit five CSS properties.<br>
 
 ### Instructions
 
