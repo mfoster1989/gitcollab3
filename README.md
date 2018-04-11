@@ -9,6 +9,7 @@
 3b. Malcolm: You should create an array of objects. Each object should have a name and age.<br>
 4a. Brandon: You should edit five CSS properties.<br>
 4b. Malcolm: You should create a new directory. Move at least one file into that directory. <br>
+5a. Brandon: You should edit an HTML file. Add a recipe that you like using lists.<br>
 
 ### Instructions
 
