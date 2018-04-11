@@ -1,14 +1,15 @@
-# Galvanize Git Collarboration Drill 3
-* We will be using a feature branch workflow for this drill.
+# Galvanize Git Collaboration Drill 3
+* For this drill, we will be using a feature branch workflow.
 
-1a. Brandon Task 1: Slack your partner. You should both create an array of objects. Each object should have a name and age.
-1b. Malcolm Task 1: Made a new folder, moved about.html into it
+1a. Brandon: Slack your partner. You should both create an array of objects. Each object should have a name and age.<br>
+1b. Malcolm: Made a new folder, moved about.html into it.<br>
+2a. Brandon: Slack your partner. You should both create a new CSS file. Link to it from one of your HTML files.<br>
 
-## Instructions
+### Instructions
 
 Work with a partner to edit a project and manage your changes with git.
 
-## Steps
+### Steps
 1. Find a partner. Pick one person to copy the app folder so that it is outside of this repo. Initialize it as its own git repo and link it to a remote on Github.
 2. Decide on your git workflow and record it inside the repo before you start. Be sure to commit it before moving on to the tasks.
 3. Taking turns, go to [this app](https://random-task-generator.firebaseapp.com) and generate a task. Do the task and make your changes available to your partner on Github.
