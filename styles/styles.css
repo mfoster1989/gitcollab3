@@ -19,5 +19,11 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+}
+header {
+  display: flex;
+  font-size: 2rem;
+  justify-content: space-between;
+  margin: 1vw;
+  padding: 0.5vw;
 }
