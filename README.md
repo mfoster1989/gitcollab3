@@ -10,6 +10,7 @@
 4a. Brandon: You should edit five CSS properties.<br>
 4b. Malcolm: You should create a new directory. Move at least one file into that directory. <br>
 5a. Brandon: You should edit an HTML file. Add a recipe that you like using lists.<br>
+5b. Malcolm: You should edit an HTML file. Add a paragraph about something you like.
 
 ### Instructions
 
