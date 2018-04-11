@@ -2,7 +2,7 @@
 * We will be using a feature branch workflow for this drill.
 
 1a. Brandon Task 1: Slack your partner. You should both create an array of objects. Each object should have a name and age.
-1b. Malcolm Task 1: 
+1b. Malcolm Task 1: Made a new folder, moved about.html into it
 
 ## Instructions
 
